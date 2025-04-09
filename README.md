@@ -1,1 +1,2 @@
-# Frosted-leak
+# Ranls-discordbot
+Ranls Discord Nuke Bot
