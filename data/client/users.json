@@ -1,0 +1,1242 @@
+{
+  "1297953123268165655": {
+    "linked": true,
+    "xbox": {
+      "xuid": "2535443114724767",
+      "isFavorite": false,
+      "isFollowingCaller": false,
+      "isFollowedByCaller": false,
+      "isIdentityShared": false,
+      "addedDateTimeUtc": null,
+      "displayName": "frostedlfg",
+      "realName": "",
+      "displayPicRaw": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcS9jr0n8i7LY1tL3U7AiafSwoo6ivgTKGes_DmOLT3Ez2qFdWgtSef1NQIOnYYnQowfG0UeTUGk8Naf1PfR85FA--&format=png",
+      "showUserAsAvatar": "2",
+      "gamertag": "frostedlfg",
+      "gamerScore": "0",
+      "modernGamertag": "frostedlfg",
+      "modernGamertagSuffix": "",
+      "uniqueModernGamertag": "frostedlfg",
+      "xboxOneRep": "GoodPlayer",
+      "presenceState": "Offline",
+      "presenceText": "Offline",
+      "presenceDevices": null,
+      "isBroadcasting": false,
+      "isCloaked": true,
+      "isQuarantined": false,
+      "isXbox360Gamerpic": false,
+      "lastSeenDateTimeUtc": null,
+      "suggestion": null,
+      "recommendation": null,
+      "search": null,
+      "titleHistory": null,
+      "multiplayerSummary": {
+        "joinableActivities": [],
+        "partyDetails": [],
+        "inParty": 0
+      },
+      "recentPlayer": null,
+      "follower": null,
+      "preferredColor": {
+        "primaryColor": "107c10",
+        "secondaryColor": "102b14",
+        "tertiaryColor": "155715"
+      },
+      "presenceDetails": [],
+      "titlePresence": null,
+      "titleSummaries": null,
+      "presenceTitleIds": null,
+      "detail": {
+        "accountTier": "Silver",
+        "bio": "",
+        "isVerified": false,
+        "location": "",
+        "tenure": "0",
+        "watermarks": [],
+        "blocked": false,
+        "mute": false,
+        "followerCount": 0,
+        "followingCount": 0,
+        "hasGamePass": false
+      },
+      "communityManagerTitles": null,
+      "socialManager": null,
+      "broadcast": null,
+      "avatar": null,
+      "linkedAccounts": [],
+      "colorTheme": "gamerpicblur",
+      "preferredFlag": "",
+      "preferredPlatforms": []
+    },
+    "info": {
+      "XEntityToken": "NHxJWlhwK251TG4yLzhIRUVqRFQrRzVKSitydU0zQlByMUN0ZWVQL3o1ZEhNPXx7ImkiOiIyMDI0LTEyLTE1VDEyOjU2OjI0WiIsImlkdCI6Ik5pbnRlbmRvIiwiaWRwIjoiWEJveExpdmUiLCJlIjoiMjAyNC0xMi0xNlQxMjo1NjoyNFoiLCJmaSI6IjIwMjQtMTItMTVUMTI6NTY6MjNaIiwidGlkIjoiRjVBK3JoOUxvUjgiLCJpZGkiOiIyNTM1NDQzMTE0NzI0NzY3IiwiaCI6ImludGVybmFsIiwiZWMiOiJ0aXRsZV9wbGF5ZXJfYWNjb3VudCFCNjNBMDgwM0QzNjUzNjQzLzIwQ0EyLzNBQTIyMThGODMyQ0Y4MDAvRTczRTJDRUE2NkEzODgyMy8iLCJlaSI6IkU3M0UyQ0VBNjZBMzg4MjMiLCJldCI6InRpdGxlX3BsYXllcl9hY2NvdW50In0=",
+      "PlayFabId": "3AA2218F832CF800"
+    },
+    "frosted": {
+      "money": 0,
+      "commands": 0,
+      "realms": 0,
+      "cmds": 23
+    },
+    "commands": [
+      {
+        "timestamp": 1734267401521,
+        "command": "tos",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734267406387,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734267584499,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734267793865,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734267865557,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734267927573,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734267998515,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268039703,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268189518,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268228317,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268261953,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268288226,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268330110,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268390482,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268765409,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268855127,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734268901428,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734279412732,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734279455874,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734279877718,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734279887143,
+        "command": "ping",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734280478793,
+        "command": "crashrealm",
+        "guildid": null,
+        "channelid": "1315314299912192082"
+      },
+      {
+        "timestamp": 1734645773793,
+        "command": "info",
+        "guildid": "1290511964304572458",
+        "channelid": "1299262782893457408"
+      },
+      {
+        "timestamp": 1734876261769,
+        "command": "gambling",
+        "guildid": null,
+        "channelid": "1310648593375297536"
+      }
+    ],
+    "tos": true
+  },
+  "1150858705823334431": {
+    "linked": true,
+    "tos": true,
+    "xbox": {
+      "xuid": "2535411921317561",
+      "isFavorite": false,
+      "isFollowingCaller": false,
+      "isFollowedByCaller": false,
+      "isIdentityShared": false,
+      "addedDateTimeUtc": null,
+      "displayName": "OnwardSumo54793",
+      "realName": "",
+      "displayPicRaw": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcS9jr0n8i7LY1tL3U7AiafcdC6vi5emyYdbBX90AoBssUlIqWCBTL.9SqkYnKAWAphAW_C36q9Ff9LD._.3Z3lQ--&format=png",
+      "showUserAsAvatar": "2",
+      "gamertag": "OnwardSumo54793",
+      "gamerScore": "0",
+      "modernGamertag": "OnwardSumo54793",
+      "modernGamertagSuffix": "",
+      "uniqueModernGamertag": "OnwardSumo54793",
+      "xboxOneRep": "GoodPlayer",
+      "presenceState": "Offline",
+      "presenceText": "Offline",
+      "presenceDevices": null,
+      "isBroadcasting": false,
+      "isCloaked": true,
+      "isQuarantined": false,
+      "isXbox360Gamerpic": false,
+      "lastSeenDateTimeUtc": null,
+      "suggestion": null,
+      "recommendation": null,
+      "search": null,
+      "titleHistory": null,
+      "multiplayerSummary": {
+        "joinableActivities": [],
+        "partyDetails": [],
+        "inParty": 0
+      },
+      "recentPlayer": null,
+      "follower": null,
+      "preferredColor": {
+        "primaryColor": "107c10",
+        "secondaryColor": "102b14",
+        "tertiaryColor": "155715"
+      },
+      "presenceDetails": [],
+      "titlePresence": null,
+      "titleSummaries": null,
+      "presenceTitleIds": null,
+      "detail": {
+        "accountTier": "Silver",
+        "bio": "",
+        "isVerified": false,
+        "location": "",
+        "tenure": "0",
+        "watermarks": [],
+        "blocked": false,
+        "mute": false,
+        "followerCount": 0,
+        "followingCount": 0,
+        "hasGamePass": false
+      },
+      "communityManagerTitles": null,
+      "socialManager": null,
+      "broadcast": null,
+      "avatar": null,
+      "linkedAccounts": [],
+      "colorTheme": "gamerpicblur",
+      "preferredFlag": "",
+      "preferredPlatforms": []
+    },
+    "info": {
+      "userXUID": "2535411921317561",
+      "userHash": "8556010839511557602",
+      "XSTSToken": "eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.cYWbFFKfqaEx-flvjaPkE5exCaynbzvfg91sw6lj1mQUJSSHjEqb3b6g5IYjAjI-ARsaUOM9n51TIt2MdJau5ISQYn7nGtnrIYEFKLK56UE_cSQkzQrxZ_E90DIJ0iTchkJoz-49HibpZiCRJfDCZ9G8oXul2aPhMD2768hmwtw.-Jjd_jyq9qfI_WgU5e9MvQ.RoqOiFM2_gNhxL2THeVAf0_2wliOX5jkLt5yRkkoTd_rJ3OckzTMBzGZF1__xXWmSv6jgZKbeV0Sa0h8Fyj2YR3q5aVvYg5rkCl-kLMHux3WUAboSA0nxCoAPGbei2Wr045X6so5Ohfj-n64itw4UaTMnCvfgg0jw8UISDALRpes1MO-f7586celvKUZcEzWo3IclZqSVVFAdpzUVkV7dy3GErjQstMLdD3OKir05bKxwStLJgftD-w4H3MqsdU_Q0jmThupHogGTDE9mfyNdknETDTdRVIW40gQcVxWFDqtP58Mq-55zLAaGFlVpyy7xlpdKjo0N3PGiZxGzQK9LgB0FuYrBvc7a3EmoQs9f0YTfWehYctE8ThUlUm2d5fRB0au3Mrdi2vdwMNpSi5ZGHUVLNW9uoepUWPdMHWZRVym8VjF8t7L4PJ_zRR0fqJRRl7MQhd-6hXwZHv_OOA__xJ46fY2wn1sFfsrYzDSX30BVXGgG7WvDX29V3--L-SbrD1eJjRddVPX-MINQToodADa874RDwWuhYZaF7ObybUvuIEIXlW1ZEjGI_zszONIL5pM4aYouRbpHNf3f51h32s7LUxIIE-_Mu5UCwzkQ3wlj0C9ES9h1cvpmicBPuOsTgIyAGZiq6aEWPX6Dmf0ZilDwVPuaFVcqg-ENZVZUq2Q-4cfKK6BsYmknp_3_2_1alS4h1UlBI0mdYomVUPindrccTe0lY_4BOo1V9u8JvppRsBEWiznTSwSlm3N7rLUw1M5A0ddu1m-Wiu_Zw2BZFbObmICXK_SPeONL3w_YkPHIJ8wT8WmweQgwfRWMxLxTD0C-Y4z9szh7HgBo2CedC9XocgKXhy8o5cQvdFW8DzbUAcOd--w9kPOUgLVF1m2WwS8QPGOtorTtX16SZovKw7K9QE0jWQ5DPvsnBZC5FngvD_Oi9rQkrYQnrAQXIbx_rpIWygLLNGfFNTuz-f98wET2IGkcQdSIejqEBQUqtRPHPXnpBoePO7KG-AN77WxKuTJ3vhsPFzMWc43WEMyNJ9ugXas2QSzc5Nn4k0tai7N87Jl24PeGmoTvqhQBPiI14g_oGSnAFCLhzoFmBkfXotY8Ogo8CivLl50ZII9UTCI9lNdmCCQT4YuLSToaH0kP-cIQ5qPpyb2liLuzuQInAKMJXDkpHxxy7wXYEF1cySMeEaiIzYS3njmW8yEbsYKfs4XfLhvkyleWSQLdjJKwa3p3uRyXV4V1eBUgFslLQcs54M4gFleAWwEReiA5aoQke2VDE_nISjFV6yjlVs4HTpIAQWjOj0GJNrlGI0otiODBfXzERYZ8X_szURZr92JqR_G5HG6j_WjmZMuMQh0f9C_ahHUtPpZ_sqEEZnKMHCdf8RXrCZYCjo3DsDaf_6xHtzeQ46NvbknH2Ldvv4ogRzue-RNLck_T1fzVE3ppwybff5pF7ivA92OjP1P3PwGDdS3c4qiVJdkkEhcVXb5YFjstwPH7L79mHBiVzVGy5H0bvTs0esjJ_NqDiyjpfyoHDKnuguNpC1Xwli8jWCbD1IDGL8ZUOF64zsb9kx55Qzwha6nxWAqch6-IFOak_-Qqhfm86U7nhJ3gdeObVT7x--40sy-I9kNtw1iVrZ0OwOmc21e15JmT_8MNFjqyJ2FWrKE0u2eeE9AtAMRsVJ9qYyTYMckXQRXyTecyZvnORTswWWdlzPRcQgoB_by37YxFhx5XeMspu1NMbxQw4Pz1BCZqHzEZYcozbXidaA92jZc7oTcFoDu9157DTOaxMnFoYCQSzGYDGeJztpxuz6s60hnAnKZCMJU1ipLOWRxf87DaXmn09OWURjSevT6Vd1kIUCame18Rj9mINOb-kKeZVXPgV_swigX6LfRp-SSvxoDlpX0voMC2AUe7xEsraht0fkSsGYHvas6lqgFVU_aoQMUxBrnN_b7Zqlyg2Q0reOaQzVpkQztLqpNU6CBZYE5OGIN3M9cztOiriShh8imugw6LydXS9uadBaftFArmQ2RdYDqbTrUAuAbK0cqUqei.imyDh7uN1990oaxMkMoOZ4r2Q3PkvnE0hs7AaUpfjxY",
+      "expiresOn": "2024-12-24T01:12:31.097328Z"
+    },
+    "frosted": {
+      "money": 0,
+      "commands": 0,
+      "realms": 0,
+      "cmds": 33
+    },
+    "commands": [
+      {
+        "timestamp": 1734945398640,
+        "command": "skin",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734945702119,
+        "command": "skin",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734945730033,
+        "command": "skin",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734945780846,
+        "command": "skin",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734945829767,
+        "command": "skin",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734945954292,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734946099774,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734946478923,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734946723015,
+        "command": "ping",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734946847344,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734946949107,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734946987969,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734947140486,
+        "command": "account",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734947225247,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734947357302,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734947498937,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734947634585,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734947656691,
+        "command": "ping",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734947703928,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734947825310,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734947945316,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734948007565,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734948120074,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734948153348,
+        "command": "ping",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734948408495,
+        "command": "ssbp",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734948691297,
+        "command": "unblacklist",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734948722780,
+        "command": "crashrealm",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734948752781,
+        "command": "ping",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734951068928,
+        "command": "dump",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734951314727,
+        "command": "joiner",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734951401890,
+        "command": "joiner",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734951436329,
+        "command": "joiner",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734951648438,
+        "command": "joiner",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734951928144,
+        "command": "joiner",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      }
+    ]
+  },
+  "1248268634447417354": {
+    "linked": false,
+    "commands": [
+      {
+        "timestamp": 1734948705297,
+        "command": "tos",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734948716237,
+        "command": "ping",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      },
+      {
+        "timestamp": 1734948752783,
+        "command": "ping",
+        "guildid": "1310689358881357877",
+        "channelid": "1310689359531475076"
+      }
+    ],
+    "xbox": {
+      "xuid": null,
+      "displayName": null,
+      "gamerScore": null,
+      "xboxOneRep": null
+    },
+    "tos": true,
+    "frosted": {
+      "money": 0,
+      "realms": 0,
+      "cmds": 3,
+      "premium": false,
+      "premiumtime": 0,
+      "premiummonths": 0
+    }
+  },
+  "1307650846888169483": {
+    "linked": false,
+    "commands": [
+      {
+        "timestamp": 1738966399876,
+        "command": "tos",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738966411494,
+        "command": "link",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738966625100,
+        "command": "ssbp",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738966753542,
+        "command": "spam",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738966796559,
+        "command": "joiner",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738967293386,
+        "command": "blacklist",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738967307611,
+        "command": "unblacklist",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738967399646,
+        "command": "crashrealm",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738967541221,
+        "command": "gambling",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738967584898,
+        "command": "xsearch",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738967906177,
+        "command": "xscreenshots",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738967952228,
+        "command": "xscreenshots",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738968010983,
+        "command": "xscreenshots",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738968027988,
+        "command": "xlookup",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738968183097,
+        "command": "playerlist",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738968259257,
+        "command": "playerlist",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738968338089,
+        "command": "crashplayer",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738969065051,
+        "command": "crashplayer",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738969112408,
+        "command": "freeze",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738969801868,
+        "command": "beta-spam",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738972825848,
+        "command": "tos",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738973227341,
+        "command": "beta-spam",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738973286441,
+        "command": "spamuser",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1738973342472,
+        "command": "lag",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739036315346,
+        "command": "ssbp",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739036771275,
+        "command": "ssbp",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739037124150,
+        "command": "ssbp",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739037339611,
+        "command": "spam",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739038228383,
+        "command": "fakemessage",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739038358845,
+        "command": "iptroll",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739038420696,
+        "command": "iptroll",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739038461006,
+        "command": "iptroll",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739048939044,
+        "command": "gambling",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739054054273,
+        "command": "tos",
+        "guildid": "1327229805292159006",
+        "channelid": "1329202490016661695"
+      },
+      {
+        "timestamp": 1739054064883,
+        "command": "unlink",
+        "guildid": "1327229805292159006",
+        "channelid": "1329202490016661695"
+      },
+      {
+        "timestamp": 1739054185397,
+        "command": "gambling",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739054313232,
+        "command": "ping",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739073004978,
+        "command": "gambling",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739082359238,
+        "command": "spam",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739082511126,
+        "command": "spam",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739082543762,
+        "command": "unlink",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739082549730,
+        "command": "link",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739082626271,
+        "command": "spam",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739082699356,
+        "command": "fakemessage",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739082841071,
+        "command": "ssbp",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739082993538,
+        "command": "playerlist",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739083012703,
+        "command": "ssbp",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739083333466,
+        "command": "spam",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739123442320,
+        "command": "spam",
+        "guildid": null,
+        "channelid": "1325790453399949403"
+      },
+      {
+        "timestamp": 1739123465385,
+        "command": "gambling",
+        "guildid": null,
+        "channelid": "1325790453399949403"
+      },
+      {
+        "timestamp": 1739123506181,
+        "command": "gambling",
+        "guildid": null,
+        "channelid": "1325790453399949403"
+      },
+      {
+        "timestamp": 1739130916398,
+        "command": "crashrealm",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538140574842930"
+      },
+      {
+        "timestamp": 1739130970704,
+        "command": "pendinginvites",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739130981851,
+        "command": "xgames",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      }
+    ],
+    "xbox": {
+      "xbox1": {
+        "linked": true,
+        "xbox": {
+          "xuid": "2535405924866953",
+          "isFavorite": false,
+          "isFollowingCaller": false,
+          "isFollowedByCaller": false,
+          "isIdentityShared": false,
+          "addedDateTimeUtc": null,
+          "displayName": "Verxcy120",
+          "realName": "",
+          "displayPicRaw": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBrrCmIEEXHC9UNrdJ6P7KIwuPiuIs6TLDV4WsQAGzSwhtPXK324jSFISZXwjn7Pxep.qUTgu_FaqU1f_RnUzRI&format=png",
+          "showUserAsAvatar": "2",
+          "gamertag": "Verxcy120",
+          "gamerScore": "0",
+          "modernGamertag": "Verxcy120",
+          "modernGamertagSuffix": "",
+          "uniqueModernGamertag": "Verxcy120",
+          "xboxOneRep": "GoodPlayer",
+          "presenceState": "Offline",
+          "presenceText": "Last seen 3d ago: Minecraft for PlayStation®",
+          "presenceDevices": null,
+          "isBroadcasting": false,
+          "isCloaked": false,
+          "isQuarantined": false,
+          "isXbox360Gamerpic": false,
+          "lastSeenDateTimeUtc": "2025-02-05T20:34:06.6323238",
+          "suggestion": null,
+          "recommendation": null,
+          "search": null,
+          "titleHistory": null,
+          "multiplayerSummary": {
+            "joinableActivities": [],
+            "partyDetails": [],
+            "inParty": 0
+          },
+          "recentPlayer": null,
+          "follower": null,
+          "preferredColor": {
+            "primaryColor": "107c10",
+            "secondaryColor": "102b14",
+            "tertiaryColor": "155715"
+          },
+          "presenceDetails": [
+            {
+              "IsBroadcasting": false,
+              "Device": "PlayStation",
+              "DeviceSubType": null,
+              "GameplayType": null,
+              "PresenceText": "Last seen 3d ago: Minecraft for PlayStation®",
+              "State": "LastSeen",
+              "TitleId": "2044456598",
+              "TitleType": null,
+              "IsPrimary": true,
+              "IsGame": true,
+              "RichPresenceText": null
+            }
+          ],
+          "titlePresence": null,
+          "titleSummaries": null,
+          "presenceTitleIds": null,
+          "detail": {
+            "accountTier": "Silver",
+            "bio": "",
+            "isVerified": false,
+            "location": "",
+            "tenure": "0",
+            "watermarks": [],
+            "blocked": false,
+            "mute": false,
+            "followerCount": 0,
+            "followingCount": 0,
+            "hasGamePass": false
+          },
+          "communityManagerTitles": null,
+          "socialManager": null,
+          "broadcast": null,
+          "avatar": null,
+          "linkedAccounts": [],
+          "colorTheme": "gamerpicblur",
+          "preferredFlag": "",
+          "preferredPlatforms": []
+        },
+        "info": {
+          "userXUID": "2535405924866953",
+          "userHash": "11679572619816023512",
+          "XSTSToken": "eyJlbmMiOiJBMTI4Q0JDK0hTMjU2IiwiYWxnIjoiUlNBLU9BRVAiLCJjdHkiOiJKV1QiLCJ6aXAiOiJERUYiLCJ4NXQiOiIxZlVBejExYmtpWklFaE5KSVZnSDFTdTVzX2cifQ.eRhpYTazDwm5AbvArsw5aRnaWSP_M6oMRuzQ--seRg506-XOnvI2O5b8pLe6MMpaytS6247ah-ClOXlGZ59jBoyrp_LOKS8SirfhXDHlln2DSmS19K8kmNWNJ9qnNxSpBs9mgXQVeSP_pe2rCeO4kt_TPflewY4Zx5wksmxMj8s.8-JSCh73sqjpSNyTqKd20A.O80S5rs7lRhMZ98YV9GzeSS8RmClTaasukHRwtoDZz2HAMk4Tqzqx1W2otetnAXCA7HULd4DpBR5xdQ2BFk1Oeh8rYlPJoA6CxhcuKuo9vaczTFSHKlYqO-kbYO_UXiNLz8iVgRdbT3o4rSSUvjIq1wO126Fxqzf_jttDF9f1mVbdoARpn3jzAHkkcVy8aBHnp6bPGn-s_vzPkNIAxdkmdI2uZGcdVcXvG85aKXWztyJK4FGAgts_E0AP8hPdr-s5rvHbdhxmhW1VB8hMalff5ck94KZVy_xA1der1GE2riQ4hDqN6hZnqIhi3CvY4uzTArnxgwMp6165jI4RcILCKES09OTeaq1uzt_wqyZUy1u4W6KNBgbgOHYsz4HAPEgxRNnOeafCpN99SM_5y4cSMkgLklxnppaDVqTzG_hemasZy0O41LX_ZVCmlvZijmc5GPs8YVZ2HEefHozhsv8VvtNZ-Q6jU9Uku71m4z3zCat6QFkal8A4tT8EFmN77vK_t3asgH0STcRNp1MlrhwuX-x3W62Sgs8JbrTWysrz9AvBKQwAnHtWgtLO9YACP8sHZXORY0d0s_j-Z1eZGaPDvfqtFJYmBjQMxEFQGXPC8qRt6ehhUdmhDT0f2WC3wcF84dwuh7LwdI4aKnhGl3EVBIvLnS2R11D9YlZeZQzPbGEjcld1AtS8qIJj7U-__lKhMumnvj7DfOs0I3aiCvFTUWSHOwdDegenweZCbjrLVQDHvua0qTkLxXSr31E1uZON6d5tRzWrdcKmkLMeTQWxTQbb0BLIWpG-wFmx0baAAqQksIUszqlw4mEIWyvziQRRXT2weGfnFs4SIuuxk1qtPhtam9nhS2u5eZjkV6q6arAr1h-hvhBns_HtAvJKIAUXUEaXR5BdSIU8D9VwTjTPuLN371uga99Qh55EHfh3gX5NV5FgsothVEKaYF5G7GSiosqj0upKGW-LxkVOhK1VazuiLA4N4w9WdvSTIqBz5kcHVcB2HpNznv73mb0kR6I8ydrwuP4jH1b1ZDEMjalIVZ84u4lIA3rWv5lAKemKipz_qD7XREYwFp0bh2EwIyq8bplzomNyq2w43GI5neEWHWC7nHXa5luTzoFlVnHurQWEotjaS1P_UH60rAiINYFSx0jjh2bGCZWHTQZ2Dm2HSUothlF6VYfWO2yELN2RcaUPUSXUCKBEHn0ePQFyTwOichSbuEF4ggzkO_ZEMuZVAb038T-6IRsUXZrxRAYkRYwdQKBNNC_MW7bW7Dc5stW2vUDyAg1DJTOQPd9LLVEuZ2VxwF0wt9VFsJX8Er1UZ7nUgYRJDqXv_VdULH1M4C5p1C0ViMSr_unHXvOm6wVp4_IP5FwewqzMC0DFli9jtoA153Y1YAhauSkPxVxtxy4-Fm3p9rGijA-G5BeUgymAfdKlSSTlYmKBEVQiBk1LScxApOzN9KXXzLK3VVtMxHAkhzIhLznjmYfxSsryx99ijC2VHcJBQ0zTQxYF1xaQXVjzKz2pY76HyF4gTndtxJkRHDgla3kLlwMeprIhButTbr_CE8FsAnFWEtowcQUSCzGUfiwrI39bKFEmcedZQAxHIOfqJwPa44YiGhN0nryzS6M_NN2-qcHBaNRtdkkhSXrHSSmwVp2bSXKpHDd-9CGqAC6TtLvEhqvX4Uo7oCW88mQLlLcQoCo0umSU3d7HHqzoa5zybN71Y609HyKEJuf370Sx8r9UBT-HgTDc8elBytF9ql0tkaPCq5HAuesRJhc_zPOrPIAD_u87CG-CBASiCwTCg-5uWQDkdOGPv6fz67OjSpRBTDIgoITRQJD2GJuKgKe3ugvRj0NdGfsL1TfC-ixDy8FJBcftyrhotKTvnq2SxKzUL0BDx8YIC1dIFkwS9WFwN2j0ZpI1ia3-bYSJPKhnnZgEbt26okAZMYX-5rmIa4U7O9kE_5fPQ87QC4loHJiKv23X-_C4ICrFh93nmjZ3KXWfuzMsclH1mEjclC_Uz_G_5kRR9HlaDi9F1w.QTsmR2d0B719oLQe8IyJMFqAJEopo3c7KmxbvaHRn6w",
+          "expiresOn": "2025-02-09T22:30:15.0359691Z"
+        },
+        "frosted": {
+          "money": 0,
+          "commands": 0,
+          "realms": 0
+        }
+      },
+      "xbox2": {
+        "linked": false
+      },
+      "xbox3": {
+        "linked": false
+      }
+    },
+    "linkHistory": [],
+    "tos": true,
+    "frosted": {
+      "money": 0,
+      "realms": 0,
+      "cmds": 54,
+      "premium": true,
+      "premiumtime": 0,
+      "premiummonths": 12,
+      "betatester": true,
+      "staff": true,
+      "realmCrashes": 0,
+      "realmNukes": 0,
+      "honeypotFlagges": 0,
+      "streak": 0
+    }
+  },
+  "1147897242519343266": {
+    "linked": false,
+    "commands": [
+      {
+        "timestamp": 1739054291270,
+        "command": "tos",
+        "guildid": null,
+        "channelid": "1337915266314670141"
+      }
+    ],
+    "xbox": {
+      "xbox1": {
+        "linked": false
+      },
+      "xbox2": {
+        "linked": false
+      },
+      "xbox3": {
+        "linked": false
+      }
+    },
+    "linkHistory": [],
+    "tos": false,
+    "frosted": {
+      "money": 0,
+      "realms": 0,
+      "cmds": 1,
+      "premium": false,
+      "premiumtime": 0,
+      "premiummonths": 0,
+      "betatester": false,
+      "staff": false,
+      "realmCrashes": 0,
+      "realmNukes": 0,
+      "honeypotFlagges": 0,
+      "streak": 0
+    }
+  },
+  "1268659271050985573": {
+    "linked": false,
+    "commands": [
+      {
+        "timestamp": 1739076427760,
+        "command": "tos",
+        "guildid": "1298513681210019912",
+        "channelid": "1298513681210019915"
+      },
+      {
+        "timestamp": 1739076701081,
+        "command": "tos",
+        "guildid": "1253056067936452690",
+        "channelid": "1298963553444691968"
+      },
+      {
+        "timestamp": 1739076807539,
+        "command": "tos",
+        "guildid": "1327229805292159006",
+        "channelid": "1329202482123112518"
+      },
+      {
+        "timestamp": 1739076995438,
+        "command": "crashrealm",
+        "guildid": "1253056067936452690",
+        "channelid": "1298963553444691968"
+      },
+      {
+        "timestamp": 1739077007934,
+        "command": "link",
+        "guildid": "1253056067936452690",
+        "channelid": "1298963553444691968"
+      }
+    ],
+    "xbox": {
+      "xbox1": {
+        "linked": false
+      },
+      "xbox2": {
+        "linked": false
+      },
+      "xbox3": {
+        "linked": false
+      }
+    },
+    "linkHistory": [],
+    "tos": true,
+    "frosted": {
+      "money": 0,
+      "realms": 0,
+      "cmds": 5,
+      "premium": false,
+      "premiumtime": 0,
+      "premiummonths": 0,
+      "betatester": false,
+      "staff": false,
+      "realmCrashes": 0,
+      "realmNukes": 0,
+      "honeypotFlagges": 0,
+      "streak": 0
+    }
+  },
+  "1170112690279165974": {
+    "linked": false,
+    "commands": [
+      {
+        "timestamp": 1739077206205,
+        "command": "tos",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739077216743,
+        "command": "blacklist",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739077251325,
+        "command": "unblacklist",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      },
+      {
+        "timestamp": 1739077842973,
+        "command": "tos",
+        "guildid": "1327229805292159006",
+        "channelid": "1337538102377447629"
+      }
+    ],
+    "xbox": {
+      "xbox1": {
+        "linked": false
+      },
+      "xbox2": {
+        "linked": false
+      },
+      "xbox3": {
+        "linked": false
+      }
+    },
+    "linkHistory": [],
+    "tos": true,
+    "frosted": {
+      "money": 0,
+      "realms": 0,
+      "cmds": 4,
+      "premium": false,
+      "premiumtime": 0,
+      "premiummonths": 0,
+      "betatester": false,
+      "staff": false,
+      "realmCrashes": 0,
+      "realmNukes": 0,
+      "honeypotFlagges": 0,
+      "streak": 0
+    }
+  },
+  "1001794340076666973": {
+    "linked": false,
+    "commands": [
+      {
+        "timestamp": 1739077977569,
+        "command": "tos",
+        "guildid": "1327229805292159006",
+        "channelid": "1329202490016661695"
+      },
+      {
+        "timestamp": 1739078055965,
+        "command": "tos",
+        "guildid": "1327229805292159006",
+        "channelid": "1329202490016661695"
+      }
+    ],
+    "xbox": {
+      "xbox1": {
+        "linked": false
+      },
+      "xbox2": {
+        "linked": false
+      },
+      "xbox3": {
+        "linked": false
+      }
+    },
+    "linkHistory": [],
+    "tos": true,
+    "frosted": {
+      "money": 0,
+      "realms": 0,
+      "cmds": 2,
+      "premium": false,
+      "premiumtime": 0,
+      "premiummonths": 0,
+      "betatester": false,
+      "staff": false,
+      "realmCrashes": 0,
+      "realmNukes": 0,
+      "honeypotFlagges": 0,
+      "streak": 0
+    }
+  },
+  "1248327908741615687": {
+    "linked": false,
+    "commands": [
+      {
+        "timestamp": 1739078153831,
+        "command": "tos",
+        "guildid": null,
+        "channelid": "1338015469512294510"
+      }
+    ],
+    "xbox": {
+      "xbox1": {
+        "linked": false
+      },
+      "xbox2": {
+        "linked": false
+      },
+      "xbox3": {
+        "linked": false
+      }
+    },
+    "linkHistory": [],
+    "tos": false,
+    "frosted": {
+      "money": 0,
+      "realms": 0,
+      "cmds": 1,
+      "premium": false,
+      "premiumtime": 0,
+      "premiummonths": 0,
+      "betatester": false,
+      "staff": false,
+      "realmCrashes": 0,
+      "realmNukes": 0,
+      "honeypotFlagges": 0,
+      "streak": 0
+    }
+  }
+}

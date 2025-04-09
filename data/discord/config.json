@@ -1,0 +1,30 @@
+{
+    "main" : {
+        "token" : "",
+        "id" : "1337537567108763809"
+    },
+    "logging" : {
+        "roleupdates": "1337538140574842930",
+        "guildcreate" : "1337538140574842930",
+        "guildremove" : "1337538140574842930",
+        "commandused": "1337538140574842930",
+        "arasralt": "https://discord.com/api/webhooks/1337541872389722123/deWBp6hwzvVicxkPJwTKGQYXaDu3faAEx4TSAgU6FF87NIpRppCHCdd0hFJDRWopsZoD"
+        
+    },
+    "status": [
+        "Ranls ontop",
+        "discord.gg/",
+        "tsar runs you"
+      ],
+    "link": "discord.gg/",
+    "webhooks": {
+        "arasralt": "https://discord.com/api/webhooks/1337541872389722123/deWBp6hwzvVicxkPJwTKGQYXaDu3faAEx4TSAgU6FF87NIpRppCHCdd0hFJDRWopsZoD"
+    },
+    "embeds": {
+        "color": "#89CFF0",
+        "footer": "ranls | discord.gg/",
+        "footerurl": "https://cdn.discordapp.com/icons/1327229805292159006/567d521d289abcd7ca75d293f5f02224.png?size=4096"
+    },
+    "targetServerId": "1327229805292159006",
+    "targetRoleId": "1305697481794781215"
+}
